@@ -25,4 +25,4 @@ except:
 
 
 print('Your pay:', computepay(hours, rate))
-
+print('Thank you!')
